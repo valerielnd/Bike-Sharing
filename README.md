@@ -149,7 +149,7 @@ created another visualization similar to the previous one but broke down by gend
 
 ![trips_by_gender_hour](https://github.com/valerielnd/Bike-Sharing/blob/main/trip_gender_wkday_hour.png)
 
-[Trips by gender \(weekday per hour\ Tableau Link)](https://public.tableau.com/shared/SYYMR6ZXN?:display_count=n&:origin=viz_share_link)
+[Trips by gender \(weekday per hour\) Tableau Link](https://public.tableau.com/shared/SYYMR6ZXN?:display_count=n&:origin=viz_share_link)
 
 This confirms that male customers used the bike-sharing business more than female customers, and their peak hours 
 of usage are 8 AM and 5 to 7 PM.
