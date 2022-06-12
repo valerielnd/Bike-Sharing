@@ -38,8 +38,9 @@ and Jupyter notebook to transform to data before working with it.
 ### Gender Breakdown
 
 One of the first pieces of information we wanted to find with a Tableau visualization is regarding the gender of the riders using 
-the bike-sharing business. As the total number of trips for August is 2,344,224, We decided to find the 
-number of rides by gender. Knowing the gender breakdown can help us learn a little more about the customers we could have in Des Moines.
+the bike-sharing business. 
+As the total number of trips for August is 2,344,224, we decided to find the number of rides by gender. 
+Knowing the gender breakdown can help us learn a little more about the customers we could have in Des Moines.
 
 ![gender_breakdown_pic](https://github.com/valerielnd/Bike-Sharing/blob/main/gender_breakdown.png)
 
@@ -60,7 +61,7 @@ company in Des Moines.
 [Customer Types Tableau Link](https://public.tableau.com/shared/K73CR6SZ7?:display_count=n&:origin=viz_share_link)
 
 Since there are 1900359 subscribers and 443865 short-term customers, which gives a proportion of 4.28 subscribers to short-term customers,
-We expect a more significant number of subscribers than short-term customers in De Moines.
+we expect a more significant number of subscribers than short-term customers in De Moines.
 
 ### Checkout times for users
 
@@ -73,7 +74,7 @@ by them.
 
 The highest checkout time for the users is 5 minutes, where around 146752 bikes are used for trips of that duration.
 Once this peak is reached, as the checkout time continues to increase and gets over 48 minutes, the number of bikes used 
-for a trip of that duration and more, significantly decreases and stays between 0 and 5000 bikes. That means riders typically use bikes
+for a trip of that duration and more, decreases and stays between 0 and 5000 bikes. That means riders typically use bikes
 for a trip duration between 0 to 40 minutes.
 
 ### Checkout times by gender
@@ -98,7 +99,7 @@ company in Des Moines.
 
 [Bike Utilization Tableau Link](https://public.tableau.com/shared/2W57SSFJQ?:display_count=n&:origin=viz_share_link)
 
-The highest level of utilization is 3838476 seconds(around 1066 hours). The bike with the highest utilization level was used for 34 trips.
+The highest level of utilization is 3838476 seconds (around 1066 hours). The bike with the highest utilization level was used for 34 trips.
 This means this bike was not used on average for short trips and might need more attention than others. So, this analysis
 can help us find bikes that need more attention than others.
 
@@ -110,7 +111,7 @@ Getting all those information will help us get an idea of the cost of bike upkee
 
 ![bike_repairs](https://github.com/valerielnd/Bike-Sharing/blob/main/bike_repairs.png)
 
-![Bike Repairs Tableau Link](https://public.tableau.com/shared/TSBNQHGMB?:display_count=n&:origin=viz_share_link)
+[Bike Repairs Tableau Link](https://public.tableau.com/shared/T75BWP5WW?:display_count=n&:origin=viz_share_link)
 
 The bike with ID 38124 was used for the highest number of trips: 479. We can use this visualization and filter, for example, the ten bikes
 with the highest number of trips to schedule their maintenance.
@@ -118,7 +119,7 @@ with the highest number of trips to schedule their maintenance.
 ### Average Trip duration by Age
 
 After gathering information about the customers and the bikes, we decided to focus on the trips the bikes are used for.
-So, we decided to get the average trip duration by age.
+We started by getting the average trip duration by age.
 
 ![trip_duration_age](https://github.com/valerielnd/Bike-Sharing/blob/main/trip_duration_age.png)
 
@@ -128,9 +129,9 @@ In general, younger riders tend to use the bikes for longer periods of time.
 
 ### Trips by weekday for each hour
 
-Then we decided to get the number of bike trips for each hour of each day of the week to get an idea of the expected 
-peak hours and most busy days we will have in Des Moines. Thiscan also help estimate the number of bikes needed each 
-day and also when to do maintenance onthe bikes.
+Then, we decided to get the number of bike trips for each hour of each day of the week to get an idea of the expected 
+peak hours and most busy days we will have in Des Moines. This can also help estimate the number of bikes needed each 
+day and also when to do maintenance on the bikes.
 
 ![trips_weekday_hours](https://github.com/valerielnd/Bike-Sharing/blob/main/trip_wkday_hour.png)
 
@@ -138,12 +139,12 @@ day and also when to do maintenance onthe bikes.
 
 The peak hours are 8 AM, probably when people are going to their daily activities, and 5 to 7 PM, when they 
 are done and heading homes. The busiest days are Monday, Tuesday, and Thursday. So, on those days,
-we need to expect to provide the greatest number of bikes and ensure that they are all available. However,
-we can schedule maintenance between 2 to 5 AM each morning.
+we might need provide the greatest number of bikes and ensure that they are all working properly. However,
+we can schedule maintenance on the bikes between 2 to 5 AM each morning.
 
 ### Trips by gender (weekday per hour)
 
-To confirm our findings regarding who uses the service the most and also get an idea of at what day of the week and at what hour, we 
+To confirm our findings regarding who uses the service the most and also to get an idea of when specifically, we 
 created another visualization similar to the previous one but broke down by gender.
 
 ![trips_by_gender_hour](https://github.com/valerielnd/Bike-Sharing/blob/main/trip_gender_wkday_hour.png)
@@ -171,7 +172,7 @@ a sufficient number of trips in the summer months in Des Moine.
 
 We will probably have more male riders than female riders and a more significant number of subscribers than short-term customers.
 
-Riders will typically use the bikes for a trip duration of 5-6 mins, and the number of bikes used for trip durations over Forty minutes 
+Riders will typically use the bikes for trip durations of 5-6 mins, and the number of bikes used for trip durations over Forty minutes 
 is less than 5000.
 
 Younger riders tend to use the bikes for more extended periods of time.
@@ -179,7 +180,7 @@ Younger riders tend to use the bikes for more extended periods of time.
 Regarding bike maintenance and cost of upkeep, we will need to pay special attention to bikes with highest utilization
 levels that mean used for long trips but also bikes used for the greatest number of trips.
 
-As for peak hours and busy days, we might need the make available the greatest number of bikes at 8 AM and between
+As for peak hours and busy days, we might need to make available the greatest number of bikes at 8 AM and between
 5-7 PM on Mondays, Tuesdays, and Thursdays. So, we can schedule maintenance around 2-5 AM in the mornings.
 
 Another two analysis that we could do is to find what Bike stations are used more to get an idea of how to distribute
