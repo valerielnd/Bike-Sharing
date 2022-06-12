@@ -21,16 +21,14 @@ We have performed the following analysis:
  
  Tableau story link:
  
- [NYC Story](https://public.tableau.com/app/profile/irmene.valerie.leonard/viz/NYC_Story_16550625853830/NYCCitibikeanalysis)
+ [NYC Story](https://public.tableau.com/shared/9DBT2YKND?:display_count=n&:origin=viz_share_link)
 
 
 ## Ressources
 To perform the analysis for this project, we used the Citi Bike data released to the public.
 
 We downloaded the CSV file that contains the data for August 2019 because there is likely more traffic during 
-the summer months:
-
-[Data_August_2019]()
+the summer months.
 
 We used Tableau public to create the visualization for the business proposal, Python Panda library, 
 and Jupyter notebook to transform to data before working with it.
@@ -43,7 +41,7 @@ One of the first pieces of information we wanted to find with a Tableau visualiz
 the bike-sharing business. As the total number of trips for August is 2,344,224, We decided to find the 
 number of rides by gender. Knowing the gender breakdown can help us learn a little more about the customers we could have in Des Moines.
 
-![gender_breakdown_pic]()
+![gender_breakdown_pic](https://github.com/valerielnd/Bike-Sharing/blob/main/gender_breakdown.png)
 
 [Gender Breakdown](https://public.tableau.com/shared/9DBT2YKND?:display_count=n&:origin=viz_share_link)
 
@@ -57,7 +55,7 @@ annual subscribers in NY. This will help us determine the types of customers we 
 company in Des Moines.
 
 
-![customer_proportion]()
+![customer_proportion](https://github.com/valerielnd/Bike-Sharing/blob/main/customer_type.png)
 
 [Customer Types](https://public.tableau.com/shared/K73CR6SZ7?:display_count=n&:origin=viz_share_link)
 
@@ -69,7 +67,7 @@ We expect a more significant number of subscribers than short-term customers in 
 Now that we have an idea about the customers' genders and types, we decided to find the length of time that bikes are checked out 
 by them. 
 
-![checkout_times_for_users]()
+![checkout_times_for_users](https://github.com/valerielnd/Bike-Sharing/blob/main/checkout_time_users.png)
 
 [Checkout times for users](https://public.tableau.com/shared/C2S8B58HF?:display_count=n&:origin=viz_share_link)
 
@@ -82,7 +80,7 @@ for a trip duration between 0 to 40 minutes.
 
 As we have an idea of users' typical trip duration, we decided to find out what type of users have the most extended trip duration.
 
-![checkout_time_gender]()
+![checkout_time_gender](https://github.com/valerielnd/Bike-Sharing/blob/main/checkout_time_gender.png)
 
 [Checkout times by gender](https://public.tableau.com/shared/BR43F6KYB?:display_count=n&:origin=viz_share_link)
 
@@ -96,7 +94,7 @@ Now that we have an idea about who uses the ride-sharing business and typically 
 to find information about the bikes utilization in NY to further understand the need for a bike-sharing  
 company in Des Moines.
 
-![bike_utilization]()
+![bike_utilization](https://github.com/valerielnd/Bike-Sharing/blob/main/bike_utilization.png)
 
 [Bike Utilization](https://public.tableau.com/shared/2W57SSFJQ?:display_count=n&:origin=viz_share_link)
 
@@ -110,7 +108,7 @@ Since we discovered that some bikes might need more attention which means most m
 we decided to determine which bikes have the highest number of rides since those also might need more care. 
 Getting all those information will help us get an idea of the cost of bike upkeep.
 
-![bike_rides]()
+![bike_repairs](https://github.com/valerielnd/Bike-Sharing/blob/main/bike_repairs.png)
 
 ![Bike Repairs](https://public.tableau.com/shared/TSBNQHGMB?:display_count=n&:origin=viz_share_link)
 
@@ -122,7 +120,7 @@ with the highest number of trips to schedule their maintenance.
 After gathering information about the customers and the bikes, we decided to focus on the trips the bikes are used for.
 So, we decided to get the average trip duration by age.
 
-![trip_duration_age]()
+![trip_duration_age](https://github.com/valerielnd/Bike-Sharing/blob/main/trip_duration_age.png)
 
 [Average Trip Duration by Age](https://public.tableau.com/shared/SD59C9HKR?:display_count=n&:origin=viz_share_link)
 
@@ -148,7 +146,7 @@ we can schedule maintenance between 2 to 5 AM each morning.
 To confirm our findings regarding who uses the service the most and also get an idea of at what day of the week and at what hour, we 
 created another visualization similar to the previous one but broke down by gender.
 
-![trips_by_gender]()
+![trips_by_gender_hour]()
 
 [Trips by gender \(weekday per hour\)](https://public.tableau.com/shared/SYYMR6ZXN?:display_count=n&:origin=viz_share_link)
 
@@ -160,7 +158,7 @@ of usage are 8 AM and 5 to 7 PM.
 And finally, we decided to find out what type of customers, in addition to their gender, tend to have the greatest number
 of trips and at what specific day in the week.
 
-![trips_gender_type]()
+![trips_gender_type](https://github.com/valerielnd/Bike-Sharing/blob/main/trips_gender_type.png)
 
 [Trips by gender by weekday](https://public.tableau.com/shared/3R2ZXQTKJ?:display_count=n&:origin=viz_share_link)
 
