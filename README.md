@@ -57,7 +57,7 @@ company in Des Moines.
 
 ![customer_proportion](https://github.com/valerielnd/Bike-Sharing/blob/main/customer_type.png)
 
-[Customer Types](https://public.tableau.com/shared/K73CR6SZ7?:display_count=n&:origin=viz_share_link)
+[Customer Types Tableau Link](https://public.tableau.com/shared/K73CR6SZ7?:display_count=n&:origin=viz_share_link)
 
 Since there are 1900359 subscribers and 443865 short-term customers, which gives a proportion of 4.28 subscribers to short-term customers,
 We expect a more significant number of subscribers than short-term customers in De Moines.
@@ -69,7 +69,7 @@ by them.
 
 ![checkout_times_for_users](https://github.com/valerielnd/Bike-Sharing/blob/main/checkout_time_users.png)
 
-[Checkout times for users](https://public.tableau.com/shared/C2S8B58HF?:display_count=n&:origin=viz_share_link)
+[Checkout times for users Tableau Link](https://public.tableau.com/shared/C2S8B58HF?:display_count=n&:origin=viz_share_link)
 
 The highest checkout time for the users is 5 minutes, where around 146752 bikes are used for trips of that duration.
 Once this peak is reached, as the checkout time continues to increase and gets over 48 minutes, the number of bikes used 
@@ -82,7 +82,7 @@ As we have an idea of users' typical trip duration, we decided to find out what 
 
 ![checkout_time_gender](https://github.com/valerielnd/Bike-Sharing/blob/main/checkout_time_gender.png)
 
-[Checkout times by gender](https://public.tableau.com/shared/BR43F6KYB?:display_count=n&:origin=viz_share_link)
+[Checkout times by gender Tableau Link](https://public.tableau.com/shared/BR43F6KYB?:display_count=n&:origin=viz_share_link)
 
 The highest checkout time for male customers is 5 mins, and for female customers, 6 mins. So, regarding the highest checkout time, 
 there is not a great difference between gender while male customers tend to use more the bike-sharing business.
@@ -96,7 +96,7 @@ company in Des Moines.
 
 ![bike_utilization](https://github.com/valerielnd/Bike-Sharing/blob/main/bike_utilization.png)
 
-[Bike Utilization](https://public.tableau.com/shared/2W57SSFJQ?:display_count=n&:origin=viz_share_link)
+[Bike Utilization Tableau Link](https://public.tableau.com/shared/2W57SSFJQ?:display_count=n&:origin=viz_share_link)
 
 The highest level of utilization is 3838476 seconds(around 1066 hours). The bike with the highest utilization level was used for 34 trips.
 This means this bike was not used on average for short trips and might need more attention than others. So, this analysis
@@ -110,7 +110,7 @@ Getting all those information will help us get an idea of the cost of bike upkee
 
 ![bike_repairs](https://github.com/valerielnd/Bike-Sharing/blob/main/bike_repairs.png)
 
-![Bike Repairs](https://public.tableau.com/shared/TSBNQHGMB?:display_count=n&:origin=viz_share_link)
+![Bike Repairs Tableau Link](https://public.tableau.com/shared/TSBNQHGMB?:display_count=n&:origin=viz_share_link)
 
 The bike with ID 38124 was used for the highest number of trips: 479. We can use this visualization and filter, for example, the ten bikes
 with the highest number of trips to schedule their maintenance.
@@ -122,7 +122,7 @@ So, we decided to get the average trip duration by age.
 
 ![trip_duration_age](https://github.com/valerielnd/Bike-Sharing/blob/main/trip_duration_age.png)
 
-[Average Trip Duration by Age](https://public.tableau.com/shared/SD59C9HKR?:display_count=n&:origin=viz_share_link)
+[Average Trip Duration by Age Tableau Link](https://public.tableau.com/shared/SD59C9HKR?:display_count=n&:origin=viz_share_link)
 
 In general, younger riders tend to use the bikes for longer periods of time.
 
@@ -134,7 +134,7 @@ day and also when to do maintenance onthe bikes.
 
 ![trips_weekday_hours]()
 
-[Trips by weekday for each hour](https://public.tableau.com/shared/Z5JS8FR76?:display_count=n&:origin=viz_share_link)
+[Trips by weekday for each hour Tableau Link](https://public.tableau.com/shared/Z5JS8FR76?:display_count=n&:origin=viz_share_link)
 
 The peak hours are 8 AM, probably when people are going to their daily activities, and 5 to 7 PM, when they 
 are done and heading homes. The busiest days are Monday, Tuesday, and Thursday. So, on those days,
@@ -148,7 +148,7 @@ created another visualization similar to the previous one but broke down by gend
 
 ![trips_by_gender_hour]()
 
-[Trips by gender \(weekday per hour\)](https://public.tableau.com/shared/SYYMR6ZXN?:display_count=n&:origin=viz_share_link)
+[Trips by gender \(weekday per hour\ Tableau Link)](https://public.tableau.com/shared/SYYMR6ZXN?:display_count=n&:origin=viz_share_link)
 
 This confirms that male customers used the bike-sharing business more than female customers, and their peak hours 
 of usage are 8 AM and 5 to 7 PM.
@@ -160,7 +160,7 @@ of trips and at what specific day in the week.
 
 ![trips_gender_type](https://github.com/valerielnd/Bike-Sharing/blob/main/trips_gender_type.png)
 
-[Trips by gender by weekday](https://public.tableau.com/shared/3R2ZXQTKJ?:display_count=n&:origin=viz_share_link)
+[Trips by gender by weekday Tableau Link](https://public.tableau.com/shared/3R2ZXQTKJ?:display_count=n&:origin=viz_share_link)
 
 Male subscribers used the bike-sharing business more on Thursdays.
 
