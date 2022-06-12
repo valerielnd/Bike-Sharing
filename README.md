@@ -43,7 +43,7 @@ number of rides by gender. Knowing the gender breakdown can help us learn a litt
 
 ![gender_breakdown_pic](https://github.com/valerielnd/Bike-Sharing/blob/main/gender_breakdown.png)
 
-[Gender Breakdown](https://public.tableau.com/shared/9DBT2YKND?:display_count=n&:origin=viz_share_link)
+[Gender Breakdown Tableau Link](https://public.tableau.com/shared/9DBT2YKND?:display_count=n&:origin=viz_share_link)
 
 There are 588431 female riders and 1530272 male riders. So the percentage of male riders might be more significant 
 than female riders in De Moines.
@@ -132,7 +132,7 @@ Then we decided to get the number of bike trips for each hour of each day of the
 peak hours and most busy days we will have in Des Moines. Thiscan also help estimate the number of bikes needed each 
 day and also when to do maintenance onthe bikes.
 
-![trips_weekday_hours]()
+![trips_weekday_hours](https://github.com/valerielnd/Bike-Sharing/blob/main/trip_wkday_hour.png)
 
 [Trips by weekday for each hour Tableau Link](https://public.tableau.com/shared/Z5JS8FR76?:display_count=n&:origin=viz_share_link)
 
@@ -146,7 +146,7 @@ we can schedule maintenance between 2 to 5 AM each morning.
 To confirm our findings regarding who uses the service the most and also get an idea of at what day of the week and at what hour, we 
 created another visualization similar to the previous one but broke down by gender.
 
-![trips_by_gender_hour]()
+![trips_by_gender_hour](https://github.com/valerielnd/Bike-Sharing/blob/main/trip_gender_wkday_hour.png)
 
 [Trips by gender \(weekday per hour\ Tableau Link)](https://public.tableau.com/shared/SYYMR6ZXN?:display_count=n&:origin=viz_share_link)
 
