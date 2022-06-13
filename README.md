@@ -164,7 +164,7 @@ of trips and at what specific day in the week.
 
 [Trips by gender by weekday Tableau Link](https://public.tableau.com/shared/3R2ZXQTKJ?:display_count=n&:origin=viz_share_link)
 
-Male subscribers used the bike-sharing business more on Thursdays.
+Male subscribers tend to use the bike-sharing business more and specifically Thursdays.
 
 ## Summary
 
