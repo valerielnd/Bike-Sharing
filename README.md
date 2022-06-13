@@ -74,7 +74,7 @@ by them.
 
 The highest checkout time for the users is 5 minutes, where around 146752 bikes are used for trips of that duration.
 Once this peak is reached, as the checkout time continues to increase and gets over 48 minutes, the number of bikes used 
-for a trip of that duration and more, decreases and stays between 0 and 5000 bikes. That means riders typically use bikes
+for a trip of that duration and more decreases and stays between 0 and 5000 bikes. That means riders typically use bikes
 for a trip duration between 0 to 40 minutes.
 
 ### Checkout times by gender
