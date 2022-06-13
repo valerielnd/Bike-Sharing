@@ -68,7 +68,7 @@ we expect a more significant number of subscribers than short-term customers in 
 Now that we have an idea about the customers' genders and types, we decided to find the length of time that bikes are checked out 
 by them. 
 
-![checkout_times_for_users](https://public.tableau.com/shared/TQK249YWC?:display_count=n&:origin=viz_share_link)
+![checkout_times_for_users](https://github.com/valerielnd/Bike-Sharing/blob/main/checkout_time_users.png)
 
 [Checkout times for users Tableau Link](https://public.tableau.com/shared/C2S8B58HF?:display_count=n&:origin=viz_share_link)
 
