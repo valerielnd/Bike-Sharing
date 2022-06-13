@@ -61,7 +61,7 @@ company in Des Moines.
 [Customer Types Tableau Link](https://public.tableau.com/shared/K73CR6SZ7?:display_count=n&:origin=viz_share_link)
 
 Since there are 1900359 subscribers and 443865 short-term customers, which gives a proportion of 4.28 subscribers to short-term customers,
-we expect a more significant number of subscribers than short-term customers in De Moines.
+we expect a more significant number of subscribers than short-term customers in Des Moines.
 
 ### Checkout times for users
 
