@@ -83,7 +83,7 @@ As we have an idea of users' typical trip duration, we decided to find out what 
 
 ![checkout_time_gender](https://github.com/valerielnd/Bike-Sharing/blob/main/checkout_time_gender.png)
 
-[Checkout times by gender Tableau Link](https://public.tableau.com/shared/XGXH5BY8T?:display_count=n&:origin=viz_share_link)
+[Checkout times by gender Tableau Link](https://public.tableau.com/shared/JKQMP9MP7?:display_count=n&:origin=viz_share_link)
 
 The highest checkout time for male customers is 5 mins, and for female customers, 6 mins.
 So, while male customers tend to use more the bike-sharing business, there is not a great difference between gender
