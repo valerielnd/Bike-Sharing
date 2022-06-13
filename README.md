@@ -70,7 +70,7 @@ by them.
 
 ![checkout_times_for_users](https://github.com/valerielnd/Bike-Sharing/blob/main/checkout_time_users.png)
 
-[Checkout times for users Tableau Link](https://public.tableau.com/shared/C2S8B58HF?:display_count=n&:origin=viz_share_link)
+[Checkout times for users Tableau Link](https://public.tableau.com/shared/48GPWJKMR?:display_count=n&:origin=viz_share_link)
 
 The highest checkout time for the users is 5 minutes, where around 146752 bikes are used for trips of that duration.
 Once this peak is reached, as the checkout time continues to increase and gets over 48 minutes, the number of bikes used 
