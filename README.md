@@ -98,7 +98,7 @@ company in Des Moines.
 
 ![bike_utilization](https://github.com/valerielnd/Bike-Sharing/blob/main/bike_utilization.png)
 
-[Bike Utilization Tableau Link](https://public.tableau.com/shared/B9D8RYJWZ?:display_count=n&:origin=viz_share_link)
+[Bike Utilization Tableau Link](https://public.tableau.com/shared/Y3MTSHYPX?:display_count=n&:origin=viz_share_link)
 
 The highest level of utilization is 3838476 seconds (around 1066 hours). The bike with the highest utilization level was used for 34 trips.
 This means this bike was not used on average for short trips and might need more attention than others. So, this analysis
