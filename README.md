@@ -79,14 +79,15 @@ for a trip duration between 0 to 40 minutes.
 
 ### Checkout times by gender
 
-As we have an idea of users' typical trip duration, we decided to find out what type of users have the most extended trip duration.
+As we have an idea of users' typical trip duration, we decided to find out what type of users have the most extended trip durations.
 
 ![checkout_time_gender](https://github.com/valerielnd/Bike-Sharing/blob/main/checkout_time_gender.png)
 
 [Checkout times by gender Tableau Link](https://public.tableau.com/shared/BR43F6KYB?:display_count=n&:origin=viz_share_link)
 
-The highest checkout time for male customers is 5 mins, and for female customers, 6 mins. So, regarding the highest checkout time, 
-there is not a great difference between gender while male customers tend to use more the bike-sharing business.
+The highest checkout time for male customers is 5 mins, and for female customers, 6 mins.
+So, while male customers tend to use more the bike-sharing business, there is not a great difference between gender
+regarding the highest checkout time.
 
 
 ### Bike utilization
