@@ -58,7 +58,7 @@ company in Des Moines.
 
 ![customer_proportion](https://github.com/valerielnd/Bike-Sharing/blob/main/customer_type.png)
 
-[Customer Types Tableau Link](https://public.tableau.com/shared/K73CR6SZ7?:display_count=n&:origin=viz_share_link)
+[Customer Types Tableau Link](https://public.tableau.com/shared/ND59Z5376?:display_count=n&:origin=viz_share_link)
 
 Since there are 1900359 subscribers and 443865 short-term customers, which gives a proportion of 4.28 subscribers to short-term customers,
 we expect a more significant number of subscribers than short-term customers in Des Moines.
