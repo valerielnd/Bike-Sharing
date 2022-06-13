@@ -56,7 +56,7 @@ annual subscribers in NY. This will help us determine the types of customers we 
 company in Des Moines.
 
 
-![customer_proportion](https://public.tableau.com/shared/W5R293DYQ?:display_count=n&:origin=viz_share_link)
+![customer_proportion](https://github.com/valerielnd/Bike-Sharing/blob/main/customer_type.png)
 
 [Customer Types Tableau Link](https://public.tableau.com/shared/K73CR6SZ7?:display_count=n&:origin=viz_share_link)
 
