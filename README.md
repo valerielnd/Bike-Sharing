@@ -183,7 +183,7 @@ levels that mean used for long trips but also bikes used for the greatest number
 As for peak hours and busy days, we might need to make available the greatest number of bikes at 8 AM and between
 5-7 PM on Mondays, Tuesdays, and Thursdays. So, we can schedule maintenance around 2-5 AM in the mornings.
 
-Two other analyzes we could do is to find to top starting trip stations and top ending trip stations to get an idea of how to distribute
+Two other analyses we could do is to find to top starting trip stations and top ending trip stations to get an idea of how to distribute
 our bikes among them.
 
 
