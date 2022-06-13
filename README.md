@@ -21,7 +21,7 @@ We have performed the following analysis:
  
  Tableau story link:
  
- [NYC Story](https://public.tableau.com/shared/PMP6DZ68M?:display_count=n&:origin=viz_share_link)
+ [NYC Story](https://public.tableau.com/views/NYC_Story_16550625853830/NYCCitibikeanalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Ressources
@@ -42,7 +42,7 @@ the bike-sharing business.
 As the total number of trips for August is 2,344,224, we decided to find the number of rides by gender. 
 Knowing the gender breakdown can help us learn a little more about the customers we could have in Des Moines.
 
-![gender_breakdown_pic](https://public.tableau.com/shared/BNQ7XGZTF?:display_count=n&:origin=viz_share_link)
+![gender_breakdown_pic](https://public.tableau.com/views/NYC_Story_16550625853830/NYCCitibikeanalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Gender Breakdown Tableau Link](https://public.tableau.com/shared/9DBT2YKND?:display_count=n&:origin=viz_share_link)
 
