@@ -164,7 +164,7 @@ of trips and at what specific day in the week.
 
 [Trips by gender by weekday Tableau Link](https://public.tableau.com/shared/3R2ZXQTKJ?:display_count=n&:origin=viz_share_link)
 
-Male subscribers tend to use the bike-sharing business more and especially on Thursdays.
+Male subscribers tend to use the bike-sharing business more and specially on Thursdays.
 
 ## Summary
 
@@ -185,7 +185,7 @@ As for peak hours and busy days, we might need to make available the greatest nu
 5-7 PM on Mondays, Tuesdays, and Thursdays. So, we can schedule maintenance around 2-5 AM in the mornings.
 
 Two other analyses we could do is to find to top starting trip stations and top ending trip stations to get an idea of how to distribute
-our bikes among them.
+our bikes among the different stations.
 
 
 
