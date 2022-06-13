@@ -30,7 +30,7 @@ To perform the analysis for this project, we used the Citi Bike data released to
 We downloaded the CSV file that contains the data for August 2019 because there is likely more traffic during 
 the summer months.
 
-We used Tableau public to create the visualization for the business proposal, Python Panda library, 
+We used Tableau public to create the visualizations for the business proposal, Python Panda library, 
 and Jupyter notebook to transform to data before working with it.
 
 ## Results
