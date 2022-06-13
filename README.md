@@ -87,7 +87,7 @@ As we have an idea of users' typical trip duration, we decided to find out what 
 
 The highest checkout time for male customers is 5 mins, and for female customers, 6 mins.
 So, while male customers tend to use more the bike-sharing business, there is not a great difference between gender
-regarding the highest checkout time.
+regarding their highest checkout time.
 
 
 ### Bike utilization
